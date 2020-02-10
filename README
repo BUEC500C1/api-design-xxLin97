@@ -1,0 +1,2 @@
+User Story：
+Use tweepy to download data from tweeter and get image from it. Then use google vision api to analyze the tezt in each image.
