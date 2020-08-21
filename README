@@ -1,2 +1,7 @@
 User Story：
-Use tweepy to download data from tweeter and get image from it. Then use google vision api to analyze the tezt in each image.
+
+For this homework. I use the weather api to show current weather information of an airport for those who are no familiar with this place, such as tourists.
+
+Pytest is import in this homework and the result is shown on the screenshot.
+
+The main file is the weather.py. It gets information from "requirment" file and output it for the matching airport. 
